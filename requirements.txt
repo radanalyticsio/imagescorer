@@ -4,3 +4,4 @@ setuptools >= 21.0.0
 opencv-python >= 3.4.0
 numpy >= 1.14
 flask-testing
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
